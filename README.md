@@ -219,7 +219,7 @@ end
   Access controls on the bucket.
 
 * `acl[]/bucket`
-  Required. A reference to Bucket resource
+  Required. The name of the bucket.
 
 * `acl[]/domain`
   Output only. The domain associated with the entity.
@@ -500,7 +500,7 @@ end
 #### Properties
 
 * `bucket` -
-  Required. A reference to Bucket resource
+  Required. The name of the bucket.
 
 * `domain` -
   Output only. The domain associated with the entity.
